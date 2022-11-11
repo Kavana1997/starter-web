@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-   edit for conflicts master
+   edit for conflicts master.
 
 # THANKS
 
