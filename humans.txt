@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
      new edit in the master branch
+edit for conflicts master
 
 # THANKS
 
